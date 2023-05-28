@@ -8,3 +8,5 @@ Proyecto de Trabajo Final presentado para optar al Grado de Ingeniero Agrónomo
 Modalidad: Proyecto de Investigación
 
 ESTIMACIÓN DE RENDIMIENTO EN CULTIVO DE MAÍZ A PARTIR DE LA EVOLUCIÓN TEMPORAL DEL NDVI Y MAPAS DE RENIMIENTO HISTÓRICOS
+
+Mariano F. Bonelli
